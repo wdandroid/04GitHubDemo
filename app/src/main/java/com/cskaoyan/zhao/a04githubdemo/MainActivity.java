@@ -17,4 +17,11 @@ public class MainActivity extends AppCompatActivity {
         int a = 1+2;
 
     }
+
+
+    public void function2(){
+
+        float  a =1.0f+2.0f;
+
+    }
 }
