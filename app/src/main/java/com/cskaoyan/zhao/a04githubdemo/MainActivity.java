@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     public void function2(){
-
+        // user landzhao add some note.
         float  a =1.0f+2.0f;
 
     }
