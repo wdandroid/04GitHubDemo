@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     public void function1(){
         // user wdandroid add some note.
         int a = 1+2;
-
+        int z=a+1;
     }
 
 
